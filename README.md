@@ -1,2 +1,2 @@
-# Inzynieria
-Projekt hotelu
+# Inzynieria oprogramowania
+Projekt hotelu 
